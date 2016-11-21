@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+target
 
 # External tool builders
 .externalToolBuilders/
@@ -213,3 +214,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/target/
